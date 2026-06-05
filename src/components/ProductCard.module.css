@@ -1,0 +1,10 @@
+.inStock {
+  margin: 10px;
+  padding: 10px;
+}
+
+.outOfStock {
+  margin: 10px;
+  padding: 10px;
+  opacity: 0.5;
+}
